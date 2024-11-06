@@ -1,2 +1,2 @@
 # Syscv
-SysCv is an open-source platform designed for creating and sharing public CVs. With SysCv, you can easily browse others' CVs for inspiration, optimize your own CV for search engines (SEO), and make it more discoverable online. Seamlessly convert your CV into a PDF to showcase your professional profile and share it with the world.
+SysCv is an open-source platform for creating and sharing public CVs. Discover other CVs for inspiration, enhance yours with SEO for better online visibility, and convert it to PDF for easy sharing. Show the world your professional potential with SysCv!
